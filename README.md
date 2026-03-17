@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+systems;Computer+Vision+%7C+React+%7C+FastAPI;Vice+President+%40+Web+Club+AU;200%2B+LeetCode+Problems+Solved;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+systems;Computer+Vision+%7C+React+%7C+FastAPI;200%2B+LeetCode+Problems+Solved;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +35,7 @@ class SaiVardhan:
         self.university  = "Anurag University, Hyderabad"
         self.cgpa        = 9.1
         self.batch       = 2027
-        self.position    = "Vice President @ Web Club"
+
 
     def current_focus(self):
         return [
@@ -140,7 +140,7 @@ class SaiVardhan:
 
 🎯 **200+ LeetCode Problems** &nbsp;|&nbsp; ⚔️ **Participated in 11 Hackathons**
 
-🎓 **CGPA: 9.1 / 10** &nbsp;|&nbsp; 🏛️ **Vice President — Web Club, Anurag University**
+🎓 **CGPA: 9.1 / 10**
 
 </div>
 
